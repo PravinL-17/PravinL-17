@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinl-17&label=Profile%20views&color=0e75b6&style=flat" alt="pravinl-17" /> </p>
 
 - 📫 How to reach me **pravin.lokhande2023@gmail.com**
-
+<br>
 <p align="left">
 </p>
 
